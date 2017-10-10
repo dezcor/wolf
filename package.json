@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dezcor/wolf/issues"
   },
-  "homepage": "https://github.com/dezcor/wolf#readme"
+  "homepage": "https://github.com/dezcor/wolf#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
